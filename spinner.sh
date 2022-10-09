@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 function spin() {
     spinner="/|\\-/|\\-"
     while :
@@ -12,5 +11,3 @@ function spin() {
         done
     done
 }
-
-spin
